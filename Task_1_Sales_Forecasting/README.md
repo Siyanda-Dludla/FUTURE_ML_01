@@ -9,7 +9,7 @@ This project focuses on forecasting future sales using historical retail data fr
 - Prepare and clean time-based sales data  
 - Identify trends and seasonal patterns  
 - Build a forecasting model using machine learning  
-- Present insights in a business-friendly way  
+- Present insights in a business-friendly way 
 
 ---
 
@@ -80,4 +80,4 @@ This project focuses on forecasting future sales using historical retail data fr
 
 ## 👤 Author
 Siyanda Dludla 
-|Machine learning enthusiast😉|
+|Machine learning enthusiast😉 |
