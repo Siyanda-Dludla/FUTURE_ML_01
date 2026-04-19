@@ -79,4 +79,5 @@ This project focuses on forecasting future sales using historical retail data fr
 ---
 
 ## 👤 Author
-Siyanda Dludla|Machine learning enthusiast😉|
+Siyanda Dludla 
+|Machine learning enthusiast😉|
