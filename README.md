@@ -1,6 +1,6 @@
 # FUTURE_ML_01
 Machine Learning Internship tasks 
-# 📊 Sales & Demand Forecasting (Superstore Dataset)
+# Sales & Demand Forecasting (Superstore Dataset)
 
 ## 📌 Project Overview
 This project focuses on forecasting future sales using historical retail data from the Superstore dataset. The goal is to analyze trends, identify seasonality, and build a machine learning model to predict future demand.
@@ -81,4 +81,5 @@ This project focuses on forecasting future sales using historical retail data fr
 ---
 
 ## 👤 Author
-Siyanda Mhlengi
+Siyanda Dludla
+|Machine Learning enthusiast😉|
